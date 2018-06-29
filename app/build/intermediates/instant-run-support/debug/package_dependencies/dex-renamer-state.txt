@@ -1,0 +1,7 @@
+#Fri Jun 29 15:51:29 ICT 2018
+base.0=C\:\\Users\\Admin\\Desktop\\PhoneCode-master\\QuanLi_CaNhan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_d817c4c5018f3e549b2d922865ff31464a26ccc2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Admin\\Desktop\\PhoneCode-master\\QuanLi_CaNhan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.0.0_51ff31f5262f02bb4656accfad154a923339180d\\classes.dex
+base.1=C\:\\Users\\Admin\\Desktop\\PhoneCode-master\\QuanLi_CaNhan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.0.0_51ff31f5262f02bb4656accfad154a923339180d
+file.0=C\:\\Users\\Admin\\Desktop\\PhoneCode-master\\QuanLi_CaNhan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_d817c4c5018f3e549b2d922865ff31464a26ccc2\\classes.dex
